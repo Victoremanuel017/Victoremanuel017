@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Victor and I'm a student , from Brasil</h2>
+<h2 align="left">Hi 👋! My name is Victor and I'm a Student, from Brasil.</h2>
 
 ###
 
@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  <a href="vecg9143@" target="_blank">
+  <a href="vecg9143@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/victor-emanuel-56658a267/" target="_blank">
